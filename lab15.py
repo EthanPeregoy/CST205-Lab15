@@ -12,3 +12,6 @@ def hello():
 @app.route('/ethan')
 def template():
   return render_template('template.html')
+
+# Link to repository on github
+# https://github.com/EthanPeregoy/CST205-Lab15
